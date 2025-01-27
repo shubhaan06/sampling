@@ -63,7 +63,7 @@ The best sampling technique for each model is summarized below:
    ```bash
    python main_code.py
    ```
-4. The results will be printed in the console and saved to a CSV file named `sampling_results.csv`.
+4. The results will be printed in the console and saved to a CSV file named `result_matrix.csv`.
 
 ## Conclusion
 This project demonstrates how sampling techniques influence the performance of machine learning models. Future work could explore additional balancing techniques and more robust evaluation methods to avoid overfitting.
